@@ -1,3 +1,3 @@
 # vod_baseball
 
-http://baseball.jobability.co.kr/
+https://aebonlee.github.io/baseball/
